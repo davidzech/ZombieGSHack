@@ -1,2 +1,5 @@
 theos
 com.nighthawk.*.deb
+.theos/packages/com.nighthawk.zombiegshack-0.0.1
+.theos/fakeroot
+com.nighthawk.zombiegshack_0.0.1-1_iphoneos-arm.deb
